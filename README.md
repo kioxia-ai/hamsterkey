@@ -19,7 +19,7 @@ Hamster Kombat Universal Key Generator is a web application designed to generate
 
 To use the Hamster Kombat key generator:
 
-1. Visit the [Hamster Kombat Universal Key Generator](https://github.com/kioxia-ai/hamsterkey/) website.
+1. Visit the [Hamster Kombat Universal Key Generator](https://kioxia-ai.github.io/hamsterkey) website.
 2. Select the number of keys you wish to generate.
 3. Choose the game within "Hamster Kombat" for which you need the keys.
 4. Click on the `Generate Keys` button to start the process.
